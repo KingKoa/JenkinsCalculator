@@ -2,6 +2,8 @@ import java.util.UUID;
 
 class Calculator {
 
+    break;
+
     Calculator(){
         // Added Comment to test Git Hook
     }
